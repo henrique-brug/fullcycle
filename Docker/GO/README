@@ -1,0 +1,11 @@
+# HELLO WORLD COM GOLANG E DOCKER
+
+Desenvolvimento prévio de um "hello world" com GO usando um Dockerfile
+
+## Executando o Projeto
+
+Faça o download da imagem diretamente do docker-hub:
+docker pull henriquebrug/fullcycle:latest
+
+Ou execute diretamente o container através do comando:
+docker run henriquebrug/fullcycle
